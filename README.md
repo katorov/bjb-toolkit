@@ -1,9 +1,12 @@
 # BabyJournalBot Toolkit
 
-Набор общих инструментов, используемых в проекте BabyJournalBot
-
 Данный пакет предоставляет библиотеку, состоящую из функций, широко используемых в проекте BabyJournalBot. 
 Эти функции предназначены для работы с датой/временем и построения аналитики.
+
+
+**Подробнее о проекте:**
+- https://github.com/katorov/bjb-web
+- https://github.com/katorov/bjb-telegram-bot
 
 ## Требования
 
@@ -14,12 +17,12 @@
 
 ## Установка
 
-1. Через pip
+- Способ №1: через pip
 ```
 $ pip install git+https://github.com/katorov/bjb-toolkit
 ```
 
-2. Через клонирование репозитория
+- Способ №2: через клонирование репозитория
 ```
 $ git clone git@github.com:katorov/bjb-toolkit.git
 $ cd bjb-toolkit
